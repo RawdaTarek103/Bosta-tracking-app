@@ -1,0 +1,32 @@
+.container{
+    height: fit-content;
+    border-radius: 10px;
+    border: 1px solid rgb(216, 216, 216);
+    font-family: 'Cairo', sans-serif;
+    margin-top: 30px;
+    padding:26px 0px;
+}
+.title-text{
+    font-size: 14px;
+    color: rgb(158, 158, 158);
+    line-height: 30px;
+}
+.info-text{
+    font-size: 16px;
+    font-weight: 700;
+    color: black;
+}
+.title-section{
+    padding:0px 20px 20px  20px;
+    border-bottom: 1px solid rgb(216, 216, 216);
+
+}
+.orange{
+    color: #f9ba02;
+}
+.red{
+    color: #f40105;
+}
+.green{
+    color: #36b500 ;
+}
